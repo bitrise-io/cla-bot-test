@@ -1,5 +1,3 @@
 # CLA Test Repository
 
-This is a test Repository to test the following two CLA tools:
-* cla-bot: Automates checking if CLA was signed but does not automate signing, see .clabot for settings
-* cla-assistant: Automates everything, hosted as free service on: https://cla-assistant.io/
+This is a test Repository for cla-assistant: Automates everything, hosted as free service on: https://cla-assistant.io/

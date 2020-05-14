@@ -1,6 +1,0 @@
-{
-  "contributors": [],
-  "message": "Thank you for your step and welcome to our community. We require contributors to sign our Contributor License Agreement, and we don't seem to have the users {{usersWithoutCLA}} on file. In order for us to review and merge your step, please read the [CONTRIBUTOR TERMS]( link ) for our [COMMUNITY AND VERIFIED STEP DEVELOPER PROGRAM]( link )",
-  "label": "bitrise-cla-signed",
-  "recheckComment": "Rechecking CLA..."
-}
